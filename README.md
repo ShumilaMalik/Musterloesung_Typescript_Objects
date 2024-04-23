@@ -1,0 +1,1 @@
+# Musterloesung_Typescript_Objects
